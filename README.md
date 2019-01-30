@@ -13,8 +13,8 @@
         - Desenvolvimento e gerenciamento de sistemas de conteúdo, baseado em access, para consulta descritivas de componentes  
         - Desenvolvimento e gerenciamento de portal de ensino para troca de conteúdo com clientes do SENAI 
     - Setor Marketing: Desenvolvimento de material corporativo (folder, catálogo,  apresentações), design de interfaces, renderizações, gerenciamento do site e intranet (Microsoft Sharepoint).
-        - Desenvolvimento de formulário de cadastro de clientes e fornecedores - php
-        - Desenvolvimento de um sistema de ramais, com flash e xml 
+        - Desenvolvimento de formulário de cadastro de clientes e fornecedores
+        - Desenvolvimento de um sistema de ramais
 
 ### 2013 e 2014 Trabalho Autônomo  
     - Branding 
@@ -28,15 +28,11 @@
 
 ### 2013 e 2014 Trabalho Autônomo 
     - Desenvolvimento de Sites e Sistemas
-    - Branding
-    - Renderizações de produtos, animações e edição de vídeo
+    - Branding, renderizações de produtos, animações e edição de vídeo
     - Programação de CLP para máquinas 
 
 ### Cursos
     Informática básica, Computação gráfica, Logica de Programação, Desenho, Tec. em publicidade, 3d Studio max, Bacharel em Design - 4 semestre
 
-### Softwares
-    Office, Corel Draw, Solid Works, 3dsMax, Cinema 4d , Affer effect, Photoshop, Illustrator, In design, Visual Studio, 3Cad
-
-### Linguagem de Programação e Banco de Dados
-    Javascript (NodeJs), Php, Python, Ladder, C, Mongodb, Mysql, Mssql
+### Softwares e Linguagem de Programação e Banco de Dados
+    Office, Corel Draw, Solid Works, 3dsMax, Cinema 4d , Affer effect, Photoshop, Illustrator, In design, Visual Studio, 3Cad, Javascript (NodeJs), Php, Python, Ladder, C, Mongodb, Mysql, Mssql
