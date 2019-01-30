@@ -3,7 +3,6 @@
     Rua General Jacinto Maria de Godoy, 1791 - Colina Sorriso - Caxias do Sul - RS
     Telefone: 54 98162-2557 E-mail: rafael.arteg@gmail.com
 
-
 ### 2006 a 2008 - Engeme Sistemas Educacionais 
     - Produção: Montagem de quadro de comando - automação industrial
     - Engenharia: Documentação técnica (apostilas e ilustrações técnicas)
@@ -28,11 +27,9 @@
     - Desenvolvimento de interfaces customizadas para o cliente, integradas ao 3cad
 
 ### 2013 e 2014 Trabalho Autônomo 
-    - Desenvolvimento de Sites
-    - Desenvolvimento de Sistemas
+    - Desenvolvimento de Sites e Sistemas
     - Branding
-    - Renderizações de produtos
-    - Animações e Edição de Vídeo
+    - Renderizações de produtos, animações e edição de vídeo
     - Programação de CLP para máquinas 
 
 ### Cursos
