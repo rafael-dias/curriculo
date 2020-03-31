@@ -1,7 +1,5 @@
 ## Rafael Pereira Dias
-    Brasileiro, Solteiro, 29 anos
-    Rua General Jacinto Maria de Godoy, 1791 - Colina Sorriso - Caxias do Sul - RS
-    Telefone: 54 98162-2557 E-mail: rafael.arteg@gmail.com
+   Dados Pessoais
 
 ### 2006 a 2008 - Engeme Sistemas Educacionais 
     - Produção: Montagem de quadro de comando - automação industrial
